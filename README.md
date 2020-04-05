@@ -1,4 +1,4 @@
-# covd-19-dashboard-tableau
+# covid-19-dashboard-tableau
 
 I dont know much about Tableau, so the [data](https://github.com/CSSEGISandData/COVID-19) has been processed using R and used in Tableau 
 
